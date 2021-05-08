@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Stock Ticker",
+    "live": "https://project1-stock-ticker-ga-github-io.vercel.app/",
+    "git": "https://github.com/Pashabrown/Project1StockTickerGA.github.io",
+    "image": "https://imgur.com/gallery/usOzoTU"
+  },
+  {
+    "name": "NonProfit Donation Checker",
+    "live": "https://easy-philanthropy.herokuapp.com/nonprofits",
+    "git": "https://github.com/Pashabrown/Easy-Philanthropy",
+    "image": "https://imgur.com/gallery/2sDKQXC"
+  }
+]
